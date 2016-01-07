@@ -1,0 +1,6 @@
+git clone - given url will make local copy
+git branch - keep stable code seperated
+git branch -a -  existing branches on our repository
+git remote -v - shows url/repository it is currenty aware of
+git add - add new files to be tracked by git to repo
+git commit -a - saves all changes on the local computer into a commit
